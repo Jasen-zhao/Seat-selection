@@ -17,3 +17,9 @@ xpath的获取方法如下\
 \
 Python Selenium库的使用\
 https://blog.csdn.net/qingyujin/article/details/117803332\
+\
+\
+\
+windows创建定时任务\
+![image](https://github.com/Jasen-zhao/Seat-selection/blob/master/img/find_xpath.png)\
+
