@@ -12,7 +12,7 @@ pip install Selenium\
 \
 利用xpath获取网页元素：driver.find_element(By.XPATH,'xpath')\
 xpath的获取方法如下\
-![image](img\find_xpath.png)\
+![image](https://github.com/Jasen-zhao/Seat-selection/blob/master/img/find_xpath.png)\
 \
 \
 Python Selenium库的使用\
